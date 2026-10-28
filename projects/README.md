@@ -17,6 +17,4 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 
 The notebooks were migrated from Colab with outputs and execution metadata removed. They use local input paths and do not require access to private Google Drive files, AWS buckets, or a backend service. Datasets are obtained separately from their authorised sources. Original learning and starter material is identified in each project README. No new licence is applied to third-party material.
 
-The AWS Boto3 notebook, duplicate assignment versions, and general practice scratchpads are excluded from this showcase. The original Drive files are preserved.
-
-These notebooks were checked for JSON structure, Python syntax, private paths, and common credential patterns. They have not been executed as part of the migration, so results and metrics are not independently verified.
+The AWS Boto3 notebook, duplicate assignment versions, and general practice scratchpads are excluded from this showcase.

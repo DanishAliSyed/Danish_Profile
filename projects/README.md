@@ -1,6 +1,6 @@
 # Danish Ali Syed — Data & Analytics Portfolio
 
-Analytics engineering, data platforms, and practical machine learning learning projects. These projects demonstrate analytical workflows; they are educational work, not production deployments.
+Analytics engineering, data platforms, and practical machine learning projects. These projects demonstrate analytical workflows; they are educational work, not production deployments.
 
 | Project | Focus |
 |---|---|

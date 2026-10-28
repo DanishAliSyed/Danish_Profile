@@ -15,4 +15,4 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 
 ## About the projects
 
-These notebooks include coursework and learning exercises. Datasets are not included; see each project for its data requirements and sources. Results should be reproduced with the appropriate data. Third-party starter material and datasets remain subject to their original terms.
+These notebooks include coursework and learning exercises. Some projects include data; see each project for its data requirements, sources, and sample limitations. Results should be reproduced with the appropriate data. Third-party starter material and datasets remain subject to their original terms.

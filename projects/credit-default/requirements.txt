@@ -1,4 +1,0 @@
-pandas==2.2.3
-scikit-learn==1.8.0
-matplotlib>=3.8,<4
-xlrd==2.0.1

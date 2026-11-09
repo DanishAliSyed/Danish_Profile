@@ -1,4 +1,0 @@
-model,mae,rmse,bias_pred_minus_actual
-yesterday,949.043,1277.561,-6.929
-last_week,1013.400,1342.767,-65.400
-ridge,408.831,643.540,-45.442

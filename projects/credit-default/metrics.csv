@@ -1,2 +1,0 @@
-rows,train_rows,test_rows,test_events,test_event_rate,roc_auc,average_precision,brier,baseline_brier,top10_capacity,top10_events,top10_event_capture,top10_event_rate
-30000,21000,9000,1991,0.221222,0.712859,0.495897,0.146679,0.172283,900,612,0.307383,0.680000

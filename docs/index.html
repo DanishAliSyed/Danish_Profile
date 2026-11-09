@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Danish Ali Syed's portfolio of finance, supply chain and analytics engineering projects. Explore dashboards, SQL analyses and reproducible case studies.">
+<title>Danish Ali Syed — Data &amp; Analytics Portfolio</title>
+<link rel="stylesheet" href="./styles.css">
+<script type="module" src="./app.js"></script>
+</head>
+<body>
+<a class="skip" href="#projects">Skip to projects</a>
+<header class="top wrap">
+  <a class="brand" href="./" aria-label="Danish Ali Syed, portfolio home"><span>DS</span><strong>Danish Ali Syed</strong></a>
+  <nav aria-label="Main navigation"><a href="#projects">Projects</a><a href="https://www.linkedin.com/in/consultant-danishsyed/">LinkedIn</a></nav>
+</header>
+<main>
+  <section class="hero">
+    <div class="wrap hero-inner">
+      <div>
+        <p class="eyebrow"><span class="dot"></span> Data &amp; analytics portfolio</p>
+        <h1>Make the data useful.</h1>
+        <p class="intro">I’m Danish Ali Syed, an analytics engineer working across finance and supply chain. Here’s how I turn raw data into reliable metrics, dashboards, and practical business decisions.</p>
+        <div class="actions"><a class="primary" href="#projects">Explore projects <span aria-hidden="true">↓</span></a><a class="secondary" href="https://github.com/DanishAliSyed/Danish_Profile">View GitHub <span aria-hidden="true">↗</span></a></div>
+      </div>
+      <aside class="spotlight" aria-labelledby="spotlight-title">
+        <div class="spothead"><span>PROJECT SPOTLIGHT</span><span>01 / FINANCE</span></div>
+        <h2 id="spotlight-title">Where does requested funding drop off?</h2>
+        <figure aria-label="Synthetic loan portfolio: requested 24 million, approved 16.8 million, disbursed 14.4 million dollars.">
+          <div><span>Requested</span><span>$24.0M</span><i style="--size:100%"></i></div>
+          <div><span>Approved</span><span>$16.8M</span><i style="--size:70%"></i></div>
+          <div><span>Disbursed</span><span>$14.4M</span><i style="--size:60%"></i></div>
+          <figcaption>Illustrative figures · Power BI case study</figcaption>
+        </figure>
+        <a href="https://github.com/DanishAliSyed/Danish_Profile/blob/master/projects/loan-portfolio-power-bi/README.md">Open the loan portfolio case study</a>
+      </aside>
+    </div>
+  </section>
+  <section class="wrap catalog" id="projects" aria-labelledby="catalog-title">
+    <p class="eyebrow"><span class="dot"></span> Project library</p>
+    <h2 id="catalog-title">Explore the work</h2>
+    <p class="sub">Find a dashboard, follow a business question, or open the code behind the results.</p>
+    <div class="controls" id="controls" hidden>
+      <div class="inputs">
+        <label for="search">Search projects<input id="search" type="search" placeholder="Try Power BI, lending, or Spark"></label>
+        <label for="sort">Sort by<select id="sort"><option value="featured">Featured first</option><option value="index">Catalog order</option><option value="az">Title A–Z</option></select></label>
+      </div>
+      <fieldset><legend>Filter by topic</legend><div id="filters" class="filters"></div></fieldset>
+    </div>
+    <p class="result" id="count" role="status"></p>
+    <div class="grid" id="cards"></div>
+    <p class="fallback" id="fallback">Browse the <a href="https://github.com/DanishAliSyed/Danish_Profile/tree/master/projects">complete project index on GitHub</a>.</p>
+    <template id="project-card">
+      <article class="card">
+        <div class="card-media" hidden></div>
+        <div class="card-body">
+          <p class="category"></p>
+          <h3></h3>
+          <p class="description"></p>
+          <ul class="tags" aria-label="Tools"></ul>
+          <div class="card-links"><a class="case-link">Case study</a></div>
+        </div>
+      </article>
+    </template>
+  </section>
+</main>
+<footer><div class="wrap foot"><p><strong>Danish Ali Syed</strong><br>Analytics engineering · Finance · Supply chain</p><a href="https://www.linkedin.com/in/consultant-danishsyed/">Connect on LinkedIn</a></div></footer>
+</body>
+</html>

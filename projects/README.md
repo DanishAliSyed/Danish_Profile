@@ -5,6 +5,9 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 | Project | Focus |
 |---|---|
 | [Loan Portfolio Analysis \| Power BI](loan-portfolio-power-bi/README.md) | Loan funnel, monthly trends, and product and channel breakdowns, with the original Power BI PDF export. |
+| [Namma Yatri Ride Operations \| Power BI](namma-yatri-power-bi/README.md) | Ride demand, revenue, conversion, and cancellation analysis, with a three-page dashboard export. |
+| [Crop Insurance Coverage & Premiums \| MySQL](crop-insurance-mysql/README.md) | Weighted coverage rates and premium contributions, demonstrated with synthetic data. |
+| [Order Fulfilment Analysis \| SQL](supply-chain-sql/README.md) | Order-grain sales and late shipment metrics, demonstrated with synthetic orders. |
 | [NYC Taxi Operations Analysis](nyc-taxi-analysis/README.md) | Exploratory analysis of 2023 NYC yellow taxi trips, including data cleaning, hourly sampling, demand patterns, fare analysis, and geographic visualisation. |
 | [Employee Retention Modelling](employee-retention/README.md) | Logistic regression exploring employee retention, with data cleaning, feature engineering, scaling, feature selection, and validation metrics. |
 | [Delivery Time Estimation](delivery-time-estimation/README.md) | Regression analysis examining delivery duration through timestamp processing, feature engineering, exploratory analysis, model building, and residual diagnostics. |
@@ -16,4 +19,4 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 
 ## About the projects
 
-These notebooks include coursework and learning exercises. Some projects include data; see each project for its data requirements, sources, and sample limitations. Results should be reproduced with the appropriate data. Third-party starter material and datasets remain subject to their original terms.
+This portfolio includes coursework, learning exercises, and standalone demonstrations. Some projects include data; see each project for its data requirements, sources, and sample limitations. Results should be reproduced with the appropriate data. Third-party starter material and datasets remain subject to their original terms.

@@ -4,6 +4,7 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 
 | Project | Focus |
 |---|---|
+| [Customer Retention \| A/B Test Analysis](customer-retention-ab-test/README.md) | Synthetic renewal reminder experiment with SQL, a confidence interval in Python, and a rollout decision. |
 | [Retail Profitability \| Tableau](retail-profitability-tableau/README.md) | Original Tableau dashboard previews, workbook, and a sales-versus-profit analysis using Sample Superstore. |
 | [New Zealand Goods Export Recovery](nz-export-recovery/README.md) | Matched-period export comparison, commodity contributions, and Power BI setup using public Stats NZ data. |
 | [Bank Campaign Analytics](bank-campaign-analytics/README.md) | SQL dashboard comparing term-deposit subscription rates by campaign history and contact count on public UCI data. |

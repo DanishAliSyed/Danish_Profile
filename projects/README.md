@@ -4,6 +4,9 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 
 | Project | Focus |
 |---|---|
+| [Telecom Churn \| Retention Prioritization](telecom-churn/README.md) | Logistic regression and a contact-capacity decision using public telecom data. |
+| [Retail Order Analytics \| Spark SQL](retail-orders-spark/README.md) | Profitability and repeat-customer queries at the correct reporting grain, using synthetic orders. |
+| [Credit Card Default \| Risk Model Evaluation](credit-default/README.md) | Holdout evaluation of ranking and probability calibration on public UCI data. |
 | [Customer Retention \| A/B Test Analysis](customer-retention-ab-test/README.md) | Synthetic renewal reminder experiment with SQL, a confidence interval in Python, and a rollout decision. |
 | [Retail Profitability \| Tableau](retail-profitability-tableau/README.md) | Original Tableau dashboard previews, workbook, and a sales-versus-profit analysis using Sample Superstore. |
 | [New Zealand Goods Export Recovery](nz-export-recovery/README.md) | Matched-period export comparison, commodity contributions, and Power BI setup using public Stats NZ data. |

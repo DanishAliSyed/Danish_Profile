@@ -1,0 +1,4 @@
+category,order_lines,orders,net_sales_cents,cost_cents,profit_cents,margin_pct
+Furniture,3,3,45500,50000,-4500,-9.89
+Accessories,3,3,17000,7000,10000,58.82
+Storage,4,4,47250,30000,17250,36.51

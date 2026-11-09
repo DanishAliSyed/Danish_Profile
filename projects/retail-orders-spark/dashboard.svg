@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+<title id="title">Retail Order Analytics | Spark SQL</title>
+<desc id="desc">Furniture loses 45 dollars on 455 dollars of sales. Three of five customers placed repeat orders.</desc>
+<rect width="1000" height="520" fill="#edf4f7"/>
+<rect width="1000" height="123" fill="#142f43"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="35" y="35" font-size="13" font-weight="bold" fill="#89e0cf">PORTFOLIO CASE STUDY / SYNTHETIC DATA</text>
+<text x="35" y="86" font-size="37" font-weight="bold" fill="#fff">Retail Order Analytics | Spark SQL</text>
+<rect x="35" y="143" width="930" height="220" rx="10" fill="#fff"/>
+<g fill="#173448">
+<text x="54" y="181" font-size="21" font-weight="bold">Which category sells well but loses money?</text>
+<g font-size="13" font-weight="bold">
+<text x="54" y="216">CATEGORY</text><text x="338" y="216">NET SALES</text>
+<text x="548" y="216">GROSS PROFIT</text><text x="773" y="216">GROSS MARGIN</text>
+</g>
+<path d="M54 226H945 M54 267H945 M54 306H945" stroke="#d7e5ee"/>
+<g font-size="17">
+<text x="54" y="251">Furniture</text><text x="338" y="251">$455.00</text>
+<text x="548" y="251" fill="#a74f34" font-weight="bold">−$45.00</text><text x="773" y="251">−9.89%</text>
+<text x="54" y="290">Storage</text><text x="338" y="290">$472.50</text>
+<text x="548" y="290">$172.50</text><text x="773" y="290">36.51%</text>
+<text x="54" y="329">Accessories</text><text x="338" y="329">$170.00</text>
+<text x="548" y="329">$100.00</text><text x="773" y="329">58.82%</text>
+</g>
+</g>
+<rect x="35" y="380" width="930" height="92" rx="10" fill="#dbecee"/>
+<text x="54" y="413" font-size="19" font-weight="bold" fill="#173448">3 of 5 customers placed repeat orders</text>
+<text x="54" y="443" font-size="15" fill="#173448">Count completed orders, not line items: 10 lines represented 8 orders.</text>
+<text x="35" y="498" font-size="12" fill="#47657a">Danish Syed / Apache Spark SQL / All input rows are synthetic</text>
+</g>
+</svg>

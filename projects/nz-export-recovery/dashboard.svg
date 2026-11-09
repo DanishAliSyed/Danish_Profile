@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 675" role="img" aria-labelledby="title desc">
+<title id="title">New Zealand Goods Export Recovery</title>
+<desc id="desc">January to August exports in 2019, 2020 and 2021, with commodity contributions to the 2021 change versus 2019.</desc>
+<rect x="0" y="0" width="1100" height="675" rx="0" fill="#eef4f6"/>
+<rect x="0" y="0" width="1100" height="143" rx="0" fill="#142f43"/>
+<text x="34" y="32" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#87e0ce" font-weight="700">PORTFOLIO CASE STUDY  /  SUPPLY CHAIN ANALYTICS</text>
+<text x="34" y="76" font-family="DejaVu Sans,Arial,sans-serif" font-size="38" fill="#ffffff" font-weight="700">New Zealand Goods Export Recovery</text>
+<text x="34" y="113" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#d8eaf4" font-weight="400">January–August comparison  |  2019 baseline  |  NZD, nominal</text>
+<rect x="34" y="160" width="334" height="78" rx="10" fill="#ffffff"/>
+<text x="49" y="184" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#45647a" font-weight="700">2019 goods exports</text>
+<text x="49" y="218" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#173448" font-weight="700">NZ$39.83B</text>
+<rect x="383" y="160" width="334" height="78" rx="10" fill="#ffffff"/>
+<text x="398" y="184" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#45647a" font-weight="700">2020 goods exports</text>
+<text x="398" y="218" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#173448" font-weight="700">NZ$40.41B</text>
+<rect x="732" y="160" width="334" height="78" rx="10" fill="#ffffff"/>
+<text x="747" y="184" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#45647a" font-weight="700">2021 goods exports</text>
+<text x="747" y="218" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#173448" font-weight="700">NZ$41.75B</text>
+<rect x="34" y="256" width="1032" height="296" rx="10" fill="#ffffff"/>
+<text x="51" y="285" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#173448" font-weight="700">What drove the change from 2019 to 2021?</text>
+<text x="51" y="308" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#45647a" font-weight="400">Change in export value, NZ$ millions  |  each commodity at the national level</text>
+<rect x="590" y="325" width="1" height="212" rx="0" fill="#b7cad6"/>
+<text x="51" y="343" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">Milk powder, butter, and cheese</text>
+<rect x="590" y="331" width="360.0" height="14" rx="3" fill="#147d74"/>
+<text x="966" y="343" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">+967M</text>
+<text x="51" y="373" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">Meat and edible offal</text>
+<rect x="590" y="361" width="170.87900723888313" height="14" rx="3" fill="#147d74"/>
+<text x="966" y="373" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">+459M</text>
+<text x="51" y="403" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">Logs, wood, and wood articles</text>
+<rect x="590" y="391" width="164.1778697001034" height="14" rx="3" fill="#147d74"/>
+<text x="966" y="403" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">+441M</text>
+<text x="51" y="433" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">Fruit</text>
+<rect x="590" y="421" width="139.23474663908996" height="14" rx="3" fill="#147d74"/>
+<text x="966" y="433" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">+374M</text>
+<text x="51" y="463" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">Non-food manufactured goods</text>
+<rect x="588.8831437435367" y="451" width="1.1168562564632885" height="14" rx="3" fill="#ba6246"/>
+<text x="966" y="463" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">-3M</text>
+<text x="51" y="493" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">All other commodities / rounding</text>
+<rect x="542.7197518097208" y="481" width="47.28024819027922" height="14" rx="3" fill="#ba6246"/>
+<text x="966" y="493" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">-127M</text>
+<text x="51" y="523" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">Fish, crustaceans, and molluscs</text>
+<rect x="520.0103412616339" y="511" width="69.98965873836607" height="14" rx="3" fill="#ba6246"/>
+<text x="966" y="523" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="700">-188M</text>
+<rect x="34" y="568" width="1032" height="63" rx="10" fill="#d9ebee"/>
+<text x="51" y="593" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#173448" font-weight="700">2021 vs 2019: +1.92B NZD (+4.8%)</text>
+<text x="51" y="614" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#173448" font-weight="400">Commodity movements are uneven. Nominal values combine price and volume effects.</text>
+<text x="34" y="655" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#45647a" font-weight="400">Danish Syed  /  Source: Stats NZ, Effects of COVID-19 on trade, 1 September 2021 (provisional)</text>
+</svg>

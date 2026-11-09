@@ -43,6 +43,6 @@ I build data products, dashboards, and reproducible analyses that help teams und
 
 The catalog includes standalone demonstrations and coursework. Each project explains its data source and limitations.
 
-## Website source
+## Portfolio website
 
-The portfolio site lives in [`docs/`](docs/). It reads the project catalog above from [`projects/README.md`](projects/README.md), with a [local fallback](docs/project-index.md) for when GitHub’s raw file endpoint is unavailable. Add new projects to the index and refresh the fallback with `cp projects/README.md docs/project-index.md`. GitHub Pages publishes the site from the `/docs` folder on `master`. Optional topic labels, tools, and previews are defined in [`docs/catalog.js`](docs/catalog.js).
+The [live portfolio](https://danishalisyed.github.io/Danish_Profile/) is published from the `gh-pages` branch. The site reads the [project catalog](projects/README.md) from `master`.

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 630" role="img" aria-labelledby="title desc">
+<title id="title">Bank Campaign Analytics</title>
+<desc id="desc">Term deposit subscription rates by prior campaign outcome and current campaign contact count, with segment sizes.</desc>
+<rect x="0" y="0" width="1000" height="630" rx="0" fill="#edf3f7"/>
+<rect x="0" y="0" width="1000" height="151" rx="0" fill="#122b40"/>
+<text x="36" y="33" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#88e0d3" font-weight="700">PORTFOLIO CASE STUDY  /  RETAIL BANKING</text>
+<text x="36" y="79" font-family="DejaVu Sans,Arial,sans-serif" font-size="37" fill="#ffffff" font-weight="700">Bank Campaign Analytics</text>
+<text x="36" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#d4e6f3" font-weight="400">How does term deposit subscription vary with contact history?</text>
+<rect x="36" y="169" width="300" height="79" rx="10" fill="#ffffff"/>
+<text x="51" y="194" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#405a70" font-weight="700">Campaign observations</text>
+<text x="51" y="228" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" fill="#183247" font-weight="700">45,211</text>
+<rect x="350" y="169" width="300" height="79" rx="10" fill="#ffffff"/>
+<text x="365" y="194" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#405a70" font-weight="700">Subscriptions</text>
+<text x="365" y="228" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" fill="#183247" font-weight="700">5,289</text>
+<rect x="664" y="169" width="300" height="79" rx="10" fill="#ffffff"/>
+<text x="679" y="194" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#405a70" font-weight="700">Overall subscription rate</text>
+<text x="679" y="228" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" fill="#183247" font-weight="700">11.7%</text>
+<rect x="36" y="267" width="457" height="230" rx="10" fill="#ffffff"/>
+<text x="51" y="296" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#183247" font-weight="700">Prior campaign outcome</text>
+<text x="51" y="318" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#486277" font-weight="400">Subscription rate  •  same 0–70% scale</text>
+<text x="51" y="358" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#183247" font-weight="700">Success</text>
+<rect x="146" y="345" width="192" height="13" rx="4" fill="#e7eef3"/>
+<rect x="146" y="345" width="177.5" height="13" rx="4" fill="#177f77"/>
+<text x="348" y="358" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#183247" font-weight="400">64.7%  ·  n=1,511</text>
+<text x="51" y="394" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#183247" font-weight="700">Failure</text>
+<rect x="146" y="381" width="192" height="13" rx="4" fill="#e7eef3"/>
+<rect x="146" y="381" width="34.6" height="13" rx="4" fill="#177f77"/>
+<text x="348" y="394" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#183247" font-weight="400">12.6%  ·  n=4,901</text>
+<text x="51" y="430" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#183247" font-weight="700">Other</text>
+<rect x="146" y="417" width="192" height="13" rx="4" fill="#e7eef3"/>
+<rect x="146" y="417" width="45.8" height="13" rx="4" fill="#177f77"/>
+<text x="348" y="430" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#183247" font-weight="400">16.7%  ·  n=1,840</text>
+<text x="51" y="466" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#183247" font-weight="700">Unknown</text>
+<rect x="146" y="453" width="192" height="13" rx="4" fill="#e7eef3"/>
+<rect x="146" y="453" width="25.1" height="13" rx="4" fill="#177f77"/>
+<text x="348" y="466" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#183247" font-weight="400">9.2%  ·  n=36,959</text>
+<rect x="507" y="267" width="457" height="230" rx="10" fill="#ffffff"/>
+<text x="522" y="296" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#183247" font-weight="700">Current campaign contacts</text>
+<text x="522" y="318" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#486277" font-weight="400">Subscription rate  •  same 0–70% scale</text>
+<text x="522" y="358" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#183247" font-weight="700">1</text>
+<rect x="617" y="345" width="192" height="13" rx="4" fill="#e7eef3"/>
+<rect x="617" y="345" width="40.0" height="13" rx="4" fill="#177f77"/>
+<text x="819" y="358" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#183247" font-weight="400">14.6%  ·  n=17,544</text>
+<text x="522" y="394" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#183247" font-weight="700">2–3</text>
+<rect x="617" y="381" width="192" height="13" rx="4" fill="#e7eef3"/>
+<rect x="617" y="381" width="30.7" height="13" rx="4" fill="#177f77"/>
+<text x="819" y="394" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#183247" font-weight="400">11.2%  ·  n=18,026</text>
+<text x="522" y="430" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#183247" font-weight="700">4–6</text>
+<rect x="617" y="417" width="192" height="13" rx="4" fill="#e7eef3"/>
+<rect x="617" y="417" width="22.8" height="13" rx="4" fill="#177f77"/>
+<text x="819" y="430" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#183247" font-weight="400">8.3%  ·  n=6,577</text>
+<text x="522" y="466" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#183247" font-weight="700">7+</text>
+<rect x="617" y="453" width="192" height="13" rx="4" fill="#e7eef3"/>
+<rect x="617" y="453" width="14.4" height="13" rx="4" fill="#177f77"/>
+<text x="819" y="466" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#183247" font-weight="400">5.2%  ·  n=3,064</text>
+<rect x="36" y="513" width="928" height="75" rx="10" fill="#dbecef"/>
+<text x="51" y="539" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#183247" font-weight="700">How to use this</text>
+<text x="51" y="561" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#183247" font-weight="400">Use prior outcomes to define audiences for a test. Contact counts are retrospective;</text>
+<text x="51" y="579" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#183247" font-weight="400">these rates do not show that more calls caused lower conversion.</text>
+<text x="36" y="614" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#486277" font-weight="400">Danish Syed  /  Data: UCI Bank Marketing, Moro, Rita &amp; Cortez (CC BY 4.0)</text>
+</svg>

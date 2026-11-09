@@ -4,6 +4,7 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 
 | Project | Focus |
 |---|---|
+| [Bank Campaign Analytics](bank-campaign-analytics/README.md) | SQL dashboard comparing term-deposit subscription rates by campaign history and contact count on public UCI data. |
 | [Loan Portfolio Analysis \| Power BI](loan-portfolio-power-bi/README.md) | Loan funnel, monthly trends, and product and channel breakdowns, with the original Power BI PDF export. |
 | [Namma Yatri Ride Operations \| Power BI](namma-yatri-power-bi/README.md) | Ride demand, revenue, conversion, and cancellation analysis, with a three-page dashboard export. |
 | [Crop Insurance Coverage & Premiums \| MySQL](crop-insurance-mysql/README.md) | Weighted coverage rates and premium contributions, demonstrated with synthetic data. |

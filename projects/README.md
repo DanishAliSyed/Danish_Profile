@@ -4,7 +4,7 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 
 | Project | Focus |
 |---|---|
-| [Loan Portfolio Analysis \| Power BI](loan-portfolio-power-bi/README.md) | Lending funnel, recoveries, and a dashboard preview using synthetic figures. |
+| [Loan Portfolio Analysis \| Power BI](loan-portfolio-power-bi/README.md) | Loan funnel, monthly trends, and product and channel breakdowns, with the original Power BI PDF export. |
 | [NYC Taxi Operations Analysis](nyc-taxi-analysis/README.md) | Exploratory analysis of 2023 NYC yellow taxi trips, including data cleaning, hourly sampling, demand patterns, fare analysis, and geographic visualisation. |
 | [Employee Retention Modelling](employee-retention/README.md) | Logistic regression exploring employee retention, with data cleaning, feature engineering, scaling, feature selection, and validation metrics. |
 | [Delivery Time Estimation](delivery-time-estimation/README.md) | Regression analysis examining delivery duration through timestamp processing, feature engineering, exploratory analysis, model building, and residual diagnostics. |

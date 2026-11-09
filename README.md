@@ -4,7 +4,7 @@
 
 I build data products, dashboards, and reproducible analyses that help teams understand performance and decide what to investigate next. My work spans SQL, Python, PySpark, Snowflake, Power BI, and Tableau.
 
-[Explore all projects](projects/README.md) · [LinkedIn](https://www.linkedin.com/in/consultant-danishsyed/)
+**[Visit the portfolio website ↗](https://danishalisyed.github.io/Danish_Profile/)** · [Explore all projects](projects/README.md) · [LinkedIn](https://www.linkedin.com/in/consultant-danishsyed/)
 
 ## Featured work
 
@@ -45,4 +45,4 @@ The catalog includes standalone demonstrations and coursework. Each project expl
 
 ## Website source
 
-The portfolio site lives in [`docs/`](docs/). It reads the project catalog above from [`projects/README.md`](projects/README.md), with a [local fallback](docs/project-index.md) for when GitHub’s raw file endpoint is unavailable. Add new projects to the index and refresh the fallback with `cp projects/README.md docs/project-index.md`. To host it on GitHub Pages, select **Settings → Pages → Deploy from a branch → master → /docs**. Optional topic labels, tools, and previews are defined in [`docs/catalog.js`](docs/catalog.js).
+The portfolio site lives in [`docs/`](docs/). It reads the project catalog above from [`projects/README.md`](projects/README.md), with a [local fallback](docs/project-index.md) for when GitHub’s raw file endpoint is unavailable. Add new projects to the index and refresh the fallback with `cp projects/README.md docs/project-index.md`. GitHub Pages publishes the site from the `/docs` folder on `master`. Optional topic labels, tools, and previews are defined in [`docs/catalog.js`](docs/catalog.js).

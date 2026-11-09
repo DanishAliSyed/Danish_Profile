@@ -22,12 +22,12 @@ function syncUrl() {
 }
 function makeCard(project) {
   const card = template.content.cloneNode(true);
-  const heading = card.querySelector('h3');
-  heading.textContent = project.title;
+  const link = card.querySelector('.case-link');
+  link.textContent = project.title;
+  link.href = github + project.slug + '/README.md';
   const label = card.querySelector('.category');
   label.textContent = project.topic;
   card.querySelector('.description').textContent = project.description;
-  card.querySelector('.case-link').href = github + project.slug + '/README.md';
   const tags = card.querySelector('.tags');
   for (const tool of project.tools) {
     const tag = document.createElement('li');
@@ -40,16 +40,6 @@ function makeCard(project) {
     link.href = github + project.slug + '/' + project.artifact[0];
     link.textContent = project.artifact[1];
     card.querySelector('.card-links').append(link);
-  }
-  if (project.image) {
-    const media = card.querySelector('.card-media');
-    const img = document.createElement('img');
-    img.alt = project.image[1];
-    img.loading = 'lazy';
-    img.addEventListener('error', () => { media.hidden = true; });
-    img.src = raw + project.slug + '/' + project.image[0];
-    media.append(img);
-    media.hidden = false;
   }
   return card;
 }

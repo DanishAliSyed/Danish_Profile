@@ -4,6 +4,7 @@ Analytics engineering, data platforms, and practical machine learning projects. 
 
 | Project | Focus |
 |---|---|
+| [Retail Profitability \| Tableau](retail-profitability-tableau/README.md) | Original Tableau dashboard previews, workbook, and a sales-versus-profit analysis using Sample Superstore. |
 | [New Zealand Goods Export Recovery](nz-export-recovery/README.md) | Matched-period export comparison, commodity contributions, and Power BI setup using public Stats NZ data. |
 | [Bank Campaign Analytics](bank-campaign-analytics/README.md) | SQL dashboard comparing term-deposit subscription rates by campaign history and contact count on public UCI data. |
 | [Loan Portfolio Analysis \| Power BI](loan-portfolio-power-bi/README.md) | Loan funnel, monthly trends, and product and channel breakdowns, with the original Power BI PDF export. |

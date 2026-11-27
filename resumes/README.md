@@ -1,6 +1,6 @@
 # Danish Syed
 
-**Senior Advanced Analytics Engineer | Finance & Supply Chain Analytics**
+**Senior Advanced Analytics Engineer | Forecasting & Decision Support**
 
 Toronto, Ontario · [LinkedIn](https://www.linkedin.com/in/consultant-danishsyed/) · [Portfolio](https://danishalisyed.github.io/Danish_Profile/)
 
@@ -8,13 +8,13 @@ Toronto, Ontario · [LinkedIn](https://www.linkedin.com/in/consultant-danishsyed
 
 ## Professional Summary
 
-Analytics engineer with more than a decade of experience across healthcare, banking, retail, and logistics. Builds data products for finance and supply chain teams, from requirements and data modelling through pipeline development, reconciliation, and production support. Works with Snowflake, SQL, Python, Power BI, and Databricks.
+Advanced analytics engineer with more than a decade of experience across healthcare, banking, retail, and logistics. Helps Finance and Supply Chain teams compare actuals, budgets, and forecasts, understand labour and manufacturing performance, and track inventory. Builds production analytics with Snowflake, SQL, Python, and Power BI. Portfolio projects cover predictive modelling, time-series forecasting, and A/B test analysis.
 
 ## Core Skills
 
-- **Data engineering:** Snowflake, SQL, Python, Databricks, PySpark, ETL/ELT, data modelling, orchestration
-- **Analytics:** Power BI, Tableau, KPI design, finance and supply chain analysis
-- **Delivery:** Requirements, source-to-target mapping, reconciliation, testing, production support
+- **Advanced analytics:** Forecast and variance analysis, scenario comparison, KPI design, Power BI, Tableau
+- **Applied methods:** Regression, classification, model validation, time-series evaluation, A/B test analysis
+- **Cloud data engineering:** Snowflake, SQL, Python, Databricks, PySpark, ETL/ELT, data modelling
 
 ## Professional Experience
 
@@ -22,12 +22,11 @@ Analytics engineer with more than a decade of experience across healthcare, bank
 
 Sep 2026–Present
 
-- Design and maintain Snowflake data models and Power BI dataflows for Global Operations and Supply Chain Finance, supporting manufacturing volume, labour performance, and inventory reporting.
-- Partner with Finance, Operations, and Engineering to gather requirements, agree on KPI definitions and mapping rules, and turn them into SQL transformations and validation checks.
-- Build and maintain ETL/ELT pipelines that integrate ERP and planning data. Apply site-level mappings and reconcile results across source systems and reporting outputs.
-- Support weekly volume and labour analytics across actuals, budgets, and forecasts, including earned hours, hours worked, labour rates, and labour efficiency.
-- Maintain scheduled forecast refreshes, data quality checks, and point-in-time snapshots so Finance can compare planning scenarios and reproduce prior reporting.
-- Investigate production data discrepancies and refresh failures, validate fixes with stakeholders, and support testing, deployment, and post-release checks.
+- Deliver weekly manufacturing volume and labour analytics for Global Operations and Supply Chain Finance, comparing actuals, budgets, and forecasts across manufacturing sites.
+- Partner with Finance, Operations, and Engineering to define KPIs and translate labour performance measures into consistent reporting, including earned hours, hours worked, labour rates, and labour efficiency.
+- Maintain forecast refreshes and point-in-time snapshots so Finance can track changes between planning scenarios and reproduce prior reporting.
+- Build Snowflake data models and Power BI dataflows for manufacturing and inventory analytics. Integrate ERP and planning data, apply site-level mappings, and reconcile reporting outputs to source systems.
+- Investigate missing or inconsistent data and refresh failures, validate corrections with stakeholders, and support testing and production releases.
 
 ### CIBC | Senior Data Analytics Expert
 
@@ -87,8 +86,8 @@ Jan 2026–Present
 - **Bachelor’s degree in Airframe Mechanics and Aircraft Maintenance Technology** — Singhania University, 2010
 - IIBA Certification in Business Data Analytics (IIBA-CBDA)
 
-## Selected Projects
+## Selected Advanced Analytics Projects
 
-- [Loan Portfolio Analysis](https://github.com/DanishAliSyed/Danish_Profile/blob/master/projects/loan-portfolio-power-bi/README.md): Power BI report following loan applications, approvals, disbursements, and recoveries.
-- [Retail Profitability](https://github.com/DanishAliSyed/Danish_Profile/blob/master/projects/retail-profitability-tableau/README.md): Tableau workbook comparing sales and profit across product categories and states.
-- [Bitcoin Network Activity](https://github.com/DanishAliSyed/Danish_Profile/blob/master/projects/bitcoin-network-activity/README.md): PySpark analysis of transaction confirmations and fees across 718 public Bitcoin blocks.
+- [Telecom Churn and Retention Prioritization](https://github.com/DanishAliSyed/Danish_Profile/blob/master/projects/telecom-churn/README.md): The top 10% ranked by logistic regression captured 48% of all churners in a held-out test set from public telecom data.
+- [Time-Series Forecasting](https://github.com/DanishAliSyed/Danish_Profile/blob/master/projects/media-viewership-forecasting/README.md): A ridge regression model reduced mean absolute error by 57% versus a prior-day baseline on a 70-day synthetic test set.
+- [Customer Retention A/B Test](https://github.com/DanishAliSyed/Danish_Profile/blob/master/projects/customer-retention-ab-test/README.md): Used confidence intervals and a predefined rollout threshold to assess a renewal reminder on synthetic data.

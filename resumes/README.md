@@ -1,6 +1,6 @@
 # Danish Syed
 
-**Senior Advanced Analytics Engineer | Forecasting & Decision Support**
+**Senior Advanced Analytics Engineer**
 
 Toronto, Ontario · [LinkedIn](https://www.linkedin.com/in/consultant-danishsyed/) · [Portfolio](https://danishalisyed.github.io/Danish_Profile/)
 
@@ -8,25 +8,25 @@ Toronto, Ontario · [LinkedIn](https://www.linkedin.com/in/consultant-danishsyed
 
 ## Professional Summary
 
-Advanced analytics engineer with more than a decade of experience across healthcare, banking, retail, and logistics. Helps Finance and Supply Chain teams compare actuals, budgets, and forecasts, understand labour and manufacturing performance, and track inventory. Builds production analytics with Snowflake, SQL, Python, and Power BI. Portfolio projects cover predictive modelling, time-series forecasting, and A/B test analysis.
+Senior Advanced Analytics Engineer with more than a decade of experience across healthcare, banking, retail, and logistics. Builds dataflows and reusable data models, analyses operational and financial data, and develops reporting for Finance and Supply Chain teams. Uses Snowflake, SQL, Python, and Power BI to automate recurring workflows, validate data, and turn business requirements into analytics products.
 
 ## Core Skills
 
-- **Advanced analytics:** Forecast and variance analysis, scenario comparison, KPI design, Power BI, Tableau
+- **Advanced analytics:** Operational and financial analysis, KPI design, variance analysis, Power BI, Tableau
 - **Applied methods:** Regression, classification, model validation, time-series evaluation, A/B test analysis
 - **Cloud data engineering:** Snowflake, SQL, Python, Databricks, PySpark, ETL/ELT, data modelling
 
 ## Professional Experience
 
-### Medtronic | Senior Advanced Analytics Engineer
+### ALTEN (Medtronic) | Senior Advanced Analytics Engineer
 
 Sep 2026–Present
 
-- Deliver weekly manufacturing volume and labour analytics for Global Operations and Supply Chain Finance, comparing actuals, budgets, and forecasts across manufacturing sites.
-- Partner with Finance, Operations, and Engineering to define KPIs and translate labour performance measures into consistent reporting, including earned hours, hours worked, labour rates, and labour efficiency.
-- Maintain forecast refreshes and point-in-time snapshots so Finance can track changes between planning scenarios and reproduce prior reporting.
-- Build Snowflake data models and Power BI dataflows for manufacturing and inventory analytics. Integrate ERP and planning data, apply site-level mappings, and reconcile reporting outputs to source systems.
-- Investigate missing or inconsistent data and refresh failures, validate corrections with stakeholders, and support testing and production releases.
+- Build and maintain Power BI dataflows, Snowflake transformations, and reusable data models for Finance within Global Operations and Supply Chain. Integrate operational and financial data from ERP and planning systems.
+- Analyse manufacturing volumes, labour productivity, and inventory. Compare actuals with budgets and forecasts and investigate discrepancies across sites and reporting periods.
+- Partner with Finance, Supply Chain, Manufacturing, and IT to define KPIs, agree on business rules, and prioritise reporting and analytics enhancements.
+- Automate recurring data preparation and validation using Snowflake, SQL, Python, and Power BI. Reconcile outputs across sources and investigate data quality and refresh issues.
+- Maintain forecast refreshes and point-in-time snapshots for planning comparisons. Support analytics releases from requirements and testing through deployment and production troubleshooting.
 
 ### CIBC | Senior Data Analytics Expert
 

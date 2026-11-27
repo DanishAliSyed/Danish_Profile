@@ -4,13 +4,15 @@
 
 Toronto, Ontario · [LinkedIn](https://www.linkedin.com/in/consultant-danishsyed/) · [Portfolio](https://danishalisyed.github.io/Danish_Profile/)
 
+[Download the PDF resume](Danish_Syed_Resume.pdf)
+
 ## Professional Summary
 
-Analytics engineer with more than a decade of experience across healthcare, banking, retail, and logistics. Builds data products for finance and supply chain teams, from defining metrics and modelling source data to validating results and supporting releases. Works with Snowflake, SQL, Python, Power BI, and Databricks.
+Analytics engineer with more than a decade of experience across healthcare, banking, retail, and logistics. Builds data products for finance and supply chain teams, from requirements and data modelling through pipeline development, reconciliation, and production support. Works with Snowflake, SQL, Python, Power BI, and Databricks.
 
 ## Core Skills
 
-- **Data engineering:** Snowflake, SQL, Python, Databricks, PySpark, ETL, data modelling
+- **Data engineering:** Snowflake, SQL, Python, Databricks, PySpark, ETL/ELT, data modelling, orchestration
 - **Analytics:** Power BI, Tableau, KPI design, finance and supply chain analysis
 - **Delivery:** Requirements, source-to-target mapping, reconciliation, testing, production support
 
@@ -20,10 +22,12 @@ Analytics engineer with more than a decade of experience across healthcare, bank
 
 Sep 2026–Present
 
-- Build and maintain Snowflake data models and Power BI analytics for Finance within Global Operations and Supply Chain.
-- Define manufacturing and supply chain metrics with Finance, Operations, and Engineering, and prioritise changes based on business needs.
-- Automate recurring data preparation and validation. Reconcile results across sources and work with stakeholders to resolve business rule differences.
-- Carry changes through testing, release, and production support.
+- Design and maintain Snowflake data models and Power BI dataflows for Global Operations and Supply Chain Finance, supporting manufacturing volume, labour performance, and inventory reporting.
+- Partner with Finance, Operations, and Engineering to gather requirements, agree on KPI definitions and mapping rules, and turn them into SQL transformations and validation checks.
+- Build and maintain ETL/ELT pipelines that integrate ERP and planning data. Apply site-level mappings and reconcile results across source systems and reporting outputs.
+- Support weekly volume and labour analytics across actuals, budgets, and forecasts, including earned hours, hours worked, labour rates, and labour efficiency.
+- Maintain scheduled forecast refreshes, data quality checks, and point-in-time snapshots so Finance can compare planning scenarios and reproduce prior reporting.
+- Investigate production data discrepancies and refresh failures, validate fixes with stakeholders, and support testing, deployment, and post-release checks.
 
 ### CIBC | Senior Data Analytics Expert
 
